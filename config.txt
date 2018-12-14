@@ -1,6 +1,6 @@
-token=NTIzMjU3NzI0ODc2NjE5Nzk4.DvW5XA.JEHyLtOTgGHTM-25mvKeOZOGANs
-owner=503918316663078922
-prefix= e
-game= eplay l ehelp
+token=NTE5NTAyNjA1MjY5ODYwMzcz.DvW8dw.5Dc6VD5-IU98lqCh_fKMG-lLjjQ
+owner=517410109173792768
+prefix= o
+game= oplay l ohelp
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
