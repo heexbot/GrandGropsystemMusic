@@ -1,4 +1,4 @@
-token=NDM2OTM4NzAzNzY0NTg2NTA2.DvzhcA.V9mefB6tkKLjmuUlI1ZaOTtBvng
+token=NTIxMzAxODc3MDYxNTgyODc5.Dvzlfw.kBWq17HnyEpqhXkdd7o7YGYyplw
 owner=323888904602124299
 prefix= G
 game= Gplay l Ghelp
